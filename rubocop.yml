@@ -1,5 +1,0 @@
-.rubocop.yml
-	Style/FrozenStringLiteralComment:
-	  Enabled: false
-	Style/StringLiterals:
-	  Enabled: false
